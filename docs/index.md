@@ -2,7 +2,7 @@
 layout: cv
 title: Brigham Young's Resume
 ---
-# Brigham Young
+# David Zeng
 The second prophet of The Church of Jesus Christ of Latter-day Saints. He is really cool
 
 <div id="webaddress">
