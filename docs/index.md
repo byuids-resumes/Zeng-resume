@@ -3,7 +3,7 @@ layout: cv
 title: Brigham Young's Resume
 ---
 # David Zeng
-The second prophet of The Church of Jesus Christ of Latter-day Saints. He is really cool
+I like cooking.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
