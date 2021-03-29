@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: David Zeng's Resume
 ---
 # David Zeng
 I like cooking.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="datascience@byui.edu">zen17003@byui.edu</a>
+| <a href="https://byuidatascience.github.io/development.html">Business Analytics with Supply Chain Management</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
@@ -16,12 +16,7 @@ I like cooking.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected July 2021`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
@@ -29,56 +24,53 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Related Experience
 
-### Internships
+### IT Buyer
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`December 2019 - Present`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Negotiated price, lead time and services with suppliers and saved over 30% of total spending in 12 months over $1,000,000 budget
+- Created and Maintained supplier contracts by monitoring vendors’ performance
+- Analyzed 3+ key criteria and potential risks associated with supplier selection
+- Assisted negotiating a $500,000 4-year service contract for BYU-Idaho 
 
-### Data Science Lead
+### Category Management Consultant 
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`January - April 2020`
+__Idahoan Food, Inc.__, Idaho Falls, ID
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Utilized IRI sales data to evaluate item rankings for Food Lion and Safeway compared to rest of market
+- Presented findings to Idahoan senior leadership across the company, resulting in positive feedback on the insights and recommendations
+- Analyzed price indexes for top 10 selling items’ base and promoted pricing across Food Lion and Safeway. Identified outlier items that were over or under discounted
+- Recommended optimal number of facings per item for Food Lion and Safeway planograms by leveraging IRI Inventory turns, shelf capacity, and facing information
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+### Transfer Evaluation Processor
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`October 2018 - December 2019`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-### Data Science Consulting Team
+- Settled processing time, policies with faculties, students, and employees to meet university agreements
+- Examined and identified issues associated with transcripts and policies
+- Tracked and reported daily processing time to improve unit time management
 
-`January 2027 - April 2027`
-__Imagine Learning__
+### Bakery Clerk
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+`June - Ocotber 2014`
+__England Time__, Chengdu, China
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Interacted with teams, vendors, manager, and customers to achieve professional satisfaction 
+- Provided price, vendor, and inventory analysis to improve vendor performance by 15%
+- Managed supplier relationships to ensure effective communication and collaboration
 
 
-## Service and Work History
+## Volunteer Experience 
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2018-2019`
+__Supply Chain Management Society__, Brigham Young University -Idaho, Rexburg, ID
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2015-2017`
+__Service Missionary__, Riverside, CA
 
 
 
